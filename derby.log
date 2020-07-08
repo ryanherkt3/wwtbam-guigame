@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jun 19 09:34:29 NZST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-c95a-c33f-000003157600 
+on database directory C:\Users\ryzys\OneDrive\Desktop\P17_18022861\MillionaireGameDB with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
+Loaded from file:/C:/Users/ryzys/OneDrive/Desktop/P17_18022861/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=C:\Users\ryzys\OneDrive\Desktop\P17_18022861
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
